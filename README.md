@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on portfolio website <br>👯 I’m looking to collaborate on open source projects <br>🤝 I’m looking for help with job<br>🌱 I’m currently learning backend<br>💬 Ask me about web design <br>⚡ Fun fact if it works, don't touch it!
+🔭 I’m currently working on portfolio website <br>👯 I’m looking to collaborate on open source projects <br>🤝 I’m looking for help with job<br>🌱 I’m currently learning backend<br>💬 Ask me about web design <br>⚡ Fun fact: if it works, don't touch it!
 
 
 ## 🌐 Socials:
