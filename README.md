@@ -43,7 +43,7 @@ I am a web developer with a passion for creating beautiful and functional websit
 
 # 📊 GitHub Stats:
 
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhadee04&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![stats](https://github-readme-stats.vercel.app/api?username=mhadee04&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=mhadee04&theme=dark&hide_border=false)<br/>
 
