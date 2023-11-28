@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a web developer who brings digital ideas to life. With a deep love for coding and a keen eye for user-friendly design, my portfolio is a testament to my dedication to crafting responsive, interactive, and visually appealing websites. Let's work together to create your next online masterpiece!
+I'm a software developer who transforms conceptual software solutions into reality. Fueled by a passion for coding and a meticulous focus on creating user-friendly interfaces, I am dedicated to developing responsive, interactive, and visually engaging applications. Join forces with me to bring your next software project to fruition!
 
 ## 🌐 Socials:
 
