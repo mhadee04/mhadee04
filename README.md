@@ -29,7 +29,7 @@ I'm a software developer who transforms conceptual software solutions into reali
 
 ### Design
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white). 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 ### Hardware
 
